@@ -394,7 +394,7 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
-하나카드/
+하나카드명세서/
 
 # JetBrains Rider
 *.sln.iml
